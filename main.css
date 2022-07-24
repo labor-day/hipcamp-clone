@@ -1,0 +1,19 @@
+@import url("reset.css");
+@import url("header.css");
+
+html {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  color: rgb(40, 64, 12);
+}
+
+body {
+ background-color:rgb(243, 242, 239);
+}
+
+.weight600 {
+  font-weight: 600;
+}
+
+.weight700 {
+  font-weight: 700;
+}
